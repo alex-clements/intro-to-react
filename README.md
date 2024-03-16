@@ -10,7 +10,7 @@ This project contains a template requiring minimal setup to get React working in
 
 # Notes
 
-Create this template from scratch with :
+Create this template from scratch with:
 
 `npm create vite@latest my-vue-app -- --template react-ts`
 
